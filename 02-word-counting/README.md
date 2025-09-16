@@ -89,6 +89,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [what is the title of your assignment?](url)
 - Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
+- Rachel - [CAPS](https://rachel-shin-itp.notion.site/week-2-267d9b4cf2a6809a8348cc7fdc1e5821?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
