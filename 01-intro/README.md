@@ -88,3 +88,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Audrey -- [Week 1 Assignment](https://www.notion.so/Week-1-Assignment-26950145f38480e49782d6ab08f5d746?source=copy_link)
 - Yao -- [Week 1 Assignment](https://almond-celsius-975.notion.site/Week-1-269822d0868880f29cf7fca6f2b2f4bf?source=copy_link)
 - DJ -- [Week 1 Assignment](https://fl4me.notion.site/Week-1-Assn-2695f3e6c8b880c0ab57fcdd0e87158f?source=copy_link)
+- Rachel -- [vowel and consonant](https://rachel-shin-itp.notion.site/week-1-267d9b4cf2a68001a051e64bc7543f14?source=copy_link)
